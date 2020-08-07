@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.gs.builder1.UserDTOBuilder"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="java.lang.CloneNotSupportedException"/>
+    <fullyQualifiedTypeName name="com.gs.creatinal.factory.abstructfactory.impl1.bank.Bank"/>
+    <fullyQualifiedTypeName name="com.gs.creatinal.factory.abstructfactory.impl1.loan.Loan"/>
+    <fullyQualifiedTypeName name="com.gs.creatinal.factory.abstructfactory.impl1.loan.HomeLoan"/>
+    <fullyQualifiedTypeName name="com.gs.creatinal.factory.abstructfactory.impl1.loan.BussinessLoan"/>
+    <fullyQualifiedTypeName name="com.gs.creatinal.factory.abstructfactory.impl1.loan.EducationLoan"/>
+</qualifiedTypeNameHistroy>

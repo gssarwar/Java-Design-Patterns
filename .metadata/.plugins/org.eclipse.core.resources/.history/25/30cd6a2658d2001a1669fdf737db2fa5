@@ -1,0 +1,28 @@
+package com.gs.simpleFactory;
+
+/**
+ * This class acts as a simple factory for creation of 
+ * different posts on web site.
+ *
+ */
+public class PostFactory {
+
+    public  static Post createPost(String type){
+        switch (type){
+            case "blog":
+                return new BlogPost();
+                break;
+            case "news":
+                return new NewsPost();
+                break;
+            case "prduct" :
+                return new ProductPost();
+                break;
+
+        }
+        return null;
+    }
+	
+	
+
+}

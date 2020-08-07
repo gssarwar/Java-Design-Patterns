@@ -1,0 +1,5 @@
+package com.gs.creatinal.factory.abstructfactory.impl1.abstractfactory;
+
+public class FactoryCreator {
+
+}
